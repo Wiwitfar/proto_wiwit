@@ -88,7 +88,7 @@ export default function HomePage() {
           {/* Adol Merchant */}
           <div className="border-l-4 border-indigo-600 pl-6">
             <h3 className="text-xl font-semibold">Mobile Developer</h3>
-            <p className="text-slate-600">Adol Merchant</p>
+            <p className="text-black">Adol Merchant</p>
             <p className="text-sm text-slate-500">Jun 2020 – Sep 2020</p>
             <p className="mt-2 text-slate-700">
               Adol Merchant is a mobile-based application designed to help street vendors market their products digitally.
@@ -102,7 +102,7 @@ export default function HomePage() {
           {/* Positive Gym */}
           <div className="border-l-4 border-indigo-600 pl-6">
             <h3 className="text-xl font-semibold">Project Leader & Web Developer</h3>
-            <p className="text-slate-600">Positive Gym — positive-gym.com</p>
+            <p className="text-black">Positive Gym — positive-gym.com</p>
             <p className="text-sm text-slate-500">Dec 2021 – May 2023</p>
             <p className="mt-2 text-slate-700">
               Developed a gym management system with a web-based admin panel and a mobile application for users.
@@ -116,7 +116,7 @@ export default function HomePage() {
           {/* Abad */}
           <div className="border-l-4 border-indigo-600 pl-6">
             <h3 className="text-xl font-semibold">Frontend Web Developer</h3>
-            <p className="text-slate-600">Abad — abad.id</p>
+            <p className="text-black">Abad — abad.id</p>
             <p className="text-sm text-slate-500">Apr 2022 – May 2023</p>
             <p className="mt-2 text-slate-700">
               Worked on a web-based news and blog portal, responsible for frontend development and UI implementation
@@ -130,7 +130,7 @@ export default function HomePage() {
           {/* Croya */}
           <div className="border-l-4 border-indigo-600 pl-6">
             <h3 className="text-xl font-semibold">Frontend Web Developer</h3>
-            <p className="text-slate-600">CROYA — croya.id</p>
+            <p className="text-black">CROYA — croya.id</p>
             <p className="text-sm text-slate-500">Mar 2022 – Apr 2023</p>
             <p className="mt-2 text-slate-700">
               Developed a web-based broadcast and data management platform.
@@ -144,7 +144,7 @@ export default function HomePage() {
           {/* Konect Hub */}
           <div className="border-l-4 border-indigo-600 pl-6">
             <h3 className="text-xl font-semibold">Frontend Web Developer</h3>
-            <p className="text-slate-600">Konect Hub — hub.konect.id</p>
+            <p className="text-black">Konect Hub — hub.konect.id</p>
             <p className="text-sm text-slate-500">Mar 2022 – Apr 2023</p>
             <p className="mt-2 text-slate-700">
               Developed a marketplace platform for event organizers, providing digital services and event management solutions.
@@ -158,7 +158,7 @@ export default function HomePage() {
           {/* SIMRS */}
           <div className="border-l-4 border-indigo-600 pl-6">
             <h3 className="text-xl font-semibold">IT Programmer</h3>
-            <p className="text-slate-600">SIM RS Khusus Mata Purwokerto</p>
+            <p className="text-black">SIM RS Khusus Mata Purwokerto</p>
             <p className="text-sm text-slate-500">Aug 2023 – Present</p>
             <p className="mt-2 text-slate-700">
               Responsible for the development and maintenance of Hospital Information Systems (SIMRS),
