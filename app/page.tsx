@@ -25,7 +25,7 @@ export default function HomePage() {
           </div>
           <div className="flex justify-center">
             <img
-              src="/profile.jpg"
+              src="/mase.jpeg"
               alt="Wiwit Farianto"
               className="w-72 h-72 rounded-full border-4 border-white shadow-2xl"
             />
@@ -165,7 +165,7 @@ export default function HomePage() {
               focusing on Electronic Medical Records (EMR/RME), system integration, and support for hospital operations.
             </p>
             <p className="mt-2 text-sm text-slate-500">
-              Tech Stack: Laravel, MySQL, REST API, SIMRS Integration
+              Tech Stack: CodeIgniter, php native, postgresql, REST API, SIMRS Integration
             </p>
           </div>
         </div>
